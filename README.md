@@ -1,4 +1,4 @@
-# vendingapp
+# water_vending_updates_app
 
 A new Flutter project.
 
